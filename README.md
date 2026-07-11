@@ -1,6 +1,5 @@
 # Personal Portfolio Website
 This is my personal portfolio website created using HTML, CSS, and JavaScript.
-Project updated for final submission.
 ## Features
 - Home
 - About Me
@@ -21,4 +20,3 @@ Project updated for final submission.
 
 ## Author
 Hlaing Tun Aung
-Final project update completed.
