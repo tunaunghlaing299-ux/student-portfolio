@@ -1,8 +1,6 @@
 # Personal Portfolio Website
-
-## Description
 This is my personal portfolio website created using HTML, CSS, and JavaScript.
-
+Project updated for final submission.
 ## Features
 - Home
 - About Me
