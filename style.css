@@ -194,3 +194,11 @@ footer{
     background:#111827;
     margin-top:40px;
 }
+.hero-text{
+    text-align:center;
+    margin:0 auto;
+}
+
+.hero{
+    justify-content:center;
+}
