@@ -1,3 +1,3 @@
-window.onload = function () {
-    console.log("Welcome to Hlaing Tun Aung Portfolio");
-};
+document.addEventListener("DOMContentLoaded", function () {
+    alert("Welcome to my Student Portfolio!");
+});
